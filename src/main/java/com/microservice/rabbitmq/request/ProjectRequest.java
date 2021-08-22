@@ -11,6 +11,5 @@ public class ProjectRequest {
     private String nameProject;
     @NotBlank
     private String codeProject;
-    @NotBlank
     private double valueProject;
 }
